@@ -2,7 +2,6 @@
 
 - Paste your Long Url and get a Crisp-Link (i.e. Short url)
 - Check it out: https://nabeel001.github.io/Crisp-Link/
-- The website is responsive (adapts well to different screen sizes)
 
 ### Tools and frameworks used
 
