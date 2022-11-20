@@ -21,7 +21,7 @@ $(document).ready(function () {
     var sendInfo = { longUrl: link };
     $.ajax({
       type: "post",
-      url: "https://crisp-link.herokuapp.com/api/url/shorten",
+      url: "https://crisp-link.onrender.com/api/url/shorten",
       data: JSON.stringify(sendInfo),
       contentType: "application/json; charset=utf-8",
       traditional: true,
